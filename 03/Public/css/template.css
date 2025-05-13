@@ -1,0 +1,10 @@
+.hero {
+    background: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.8)), url('') no-repeat center top / cover;  /* Default placeholder */
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 1.5px 1.5px 4px rgba(0, 0, 0, 0.7);
+    padding-top: 10vh;
+}

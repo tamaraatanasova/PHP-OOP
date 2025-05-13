@@ -1,0 +1,15 @@
+.hero {
+    background: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), url('/images/indeximages.jpg') no-repeat center top    /cover; 
+    height: 100vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 1.5px 1.5px 4px rgba(0, 0, 0, 0.7);
+}
+
+.create {
+    background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.9)), url('/images/creating.jpg') no-repeat center top    /cover; 
+}
+
+
